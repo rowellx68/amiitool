@@ -1,3 +1,3 @@
-# amiitool (swift package)
+# amiitool for Swift Package Manager
 
-Package amiitool up as a swift library
+Encrypt/decrypt Amiibo dumps within Swift projects.
